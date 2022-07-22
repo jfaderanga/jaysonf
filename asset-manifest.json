@@ -1,20 +1,24 @@
 {
   "files": {
     "main.css": "/jaysonf/static/css/main.37390e69.css",
-    "main.js": "/jaysonf/static/js/main.9306a466.js",
+    "main.js": "/jaysonf/static/js/main.d9cc3399.js",
+    "static/media/about.png": "/jaysonf/static/media/about.24c58b8e60bd43223acc.png",
+    "static/media/about2.png": "/jaysonf/static/media/about2.6c6b4fa074aaf1af479c.png",
+    "static/media/about3.png": "/jaysonf/static/media/about3.1f0fd8d860c461d1e21d.png",
+    "static/media/guitar.png": "/jaysonf/static/media/guitar.c7909fa14372179a12a1.png",
     "static/media/self.png": "/jaysonf/static/media/self.a25a5a3bddbbd66bc742.png",
     "static/media/building.jpg": "/jaysonf/static/media/building.86b9683438f46e1a56f0.jpg",
     "static/media/avatar.png": "/jaysonf/static/media/avatar.b89c917ffe035356a590.png",
     "static/media/avatar2.png": "/jaysonf/static/media/avatar2.8b74836ab35d730511fc.png",
     "static/media/splash.png": "/jaysonf/static/media/splash.7984e790c38e5f1780c7.png",
     "static/media/email-sent.gif": "/jaysonf/static/media/email-sent.0d6aac446b1899bb1986.gif",
-    "static/media/JF_192_Black_V2.svg": "/jaysonf/static/media/JF_192_Black_V2.ffc003084bbc2a968fbe75018c7f117c.svg",
+    "static/media/JF_192_Black_V2.svg": "/jaysonf/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/jaysonf/index.html",
     "main.37390e69.css.map": "/jaysonf/static/css/main.37390e69.css.map",
-    "main.9306a466.js.map": "/jaysonf/static/js/main.9306a466.js.map"
+    "main.d9cc3399.js.map": "/jaysonf/static/js/main.d9cc3399.js.map"
   },
   "entrypoints": [
     "static/css/main.37390e69.css",
-    "static/js/main.9306a466.js"
+    "static/js/main.d9cc3399.js"
   ]
 }
