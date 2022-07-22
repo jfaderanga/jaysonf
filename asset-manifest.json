@@ -1,11 +1,9 @@
 {
   "files": {
-    "main.css": "/jaysonf/static/css/main.37390e69.css",
-    "main.js": "/jaysonf/static/js/main.d9cc3399.js",
-    "static/media/about.png": "/jaysonf/static/media/about.24c58b8e60bd43223acc.png",
-    "static/media/about2.png": "/jaysonf/static/media/about2.6c6b4fa074aaf1af479c.png",
-    "static/media/about3.png": "/jaysonf/static/media/about3.1f0fd8d860c461d1e21d.png",
+    "main.css": "/jaysonf/static/css/main.9d792115.css",
+    "main.js": "/jaysonf/static/js/main.a2c742af.js",
     "static/media/guitar.png": "/jaysonf/static/media/guitar.c7909fa14372179a12a1.png",
+    "static/media/about.png": "/jaysonf/static/media/about.6d09e0ac76a76b286af3.png",
     "static/media/self.png": "/jaysonf/static/media/self.a25a5a3bddbbd66bc742.png",
     "static/media/building.jpg": "/jaysonf/static/media/building.86b9683438f46e1a56f0.jpg",
     "static/media/avatar.png": "/jaysonf/static/media/avatar.b89c917ffe035356a590.png",
@@ -14,11 +12,11 @@
     "static/media/email-sent.gif": "/jaysonf/static/media/email-sent.0d6aac446b1899bb1986.gif",
     "static/media/JF_192_Black_V2.svg": "/jaysonf/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/jaysonf/index.html",
-    "main.37390e69.css.map": "/jaysonf/static/css/main.37390e69.css.map",
-    "main.d9cc3399.js.map": "/jaysonf/static/js/main.d9cc3399.js.map"
+    "main.9d792115.css.map": "/jaysonf/static/css/main.9d792115.css.map",
+    "main.a2c742af.js.map": "/jaysonf/static/js/main.a2c742af.js.map"
   },
   "entrypoints": [
-    "static/css/main.37390e69.css",
-    "static/js/main.d9cc3399.js"
+    "static/css/main.9d792115.css",
+    "static/js/main.a2c742af.js"
   ]
 }
