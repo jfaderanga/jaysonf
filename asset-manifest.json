@@ -1,22 +1,33 @@
 {
   "files": {
-    "main.css": "/jaysonf/static/css/main.9d792115.css",
-    "main.js": "/jaysonf/static/js/main.a2c742af.js",
-    "static/media/guitar.png": "/jaysonf/static/media/guitar.c7909fa14372179a12a1.png",
+    "main.css": "/jaysonf/static/css/main.5ed6b73e.css",
+    "main.js": "/jaysonf/static/js/main.bc9f7878.js",
+    "static/media/guitar.png": "/jaysonf/static/media/guitar.6c6dc8b4aa4a73e24fdf.png",
     "static/media/about.png": "/jaysonf/static/media/about.6d09e0ac76a76b286af3.png",
     "static/media/self.png": "/jaysonf/static/media/self.a25a5a3bddbbd66bc742.png",
     "static/media/building.jpg": "/jaysonf/static/media/building.86b9683438f46e1a56f0.jpg",
+    "static/media/coding.png": "/jaysonf/static/media/coding.af65ec17d007f5a99791.png",
+    "static/media/luffy.png": "/jaysonf/static/media/luffy.6039c6d23a17f11cb2b5.png",
+    "static/media/keyboard.jpg": "/jaysonf/static/media/keyboard.a573b5e23d25a37a8f12.jpg",
+    "static/media/coffee.jpg": "/jaysonf/static/media/coffee.6b72bbadf89cfa03384d.jpg",
     "static/media/avatar.png": "/jaysonf/static/media/avatar.b89c917ffe035356a590.png",
     "static/media/avatar2.png": "/jaysonf/static/media/avatar2.8b74836ab35d730511fc.png",
     "static/media/splash.png": "/jaysonf/static/media/splash.7984e790c38e5f1780c7.png",
+    "static/media/torus-semibold.woff2": "/jaysonf/static/media/torus-semibold.303f72cc1657be6c87a1.woff2",
+    "static/media/torus-bold.woff2": "/jaysonf/static/media/torus-bold.f292c89c8bf46687dc4c.woff2",
+    "static/media/torus-regular.woff2": "/jaysonf/static/media/torus-regular.f534f20e62eb19810671.woff2",
+    "static/media/torus-heavy.woff2": "/jaysonf/static/media/torus-heavy.cf10d679f290e05e8520.woff2",
+    "static/media/torus-light.woff2": "/jaysonf/static/media/torus-light.ffda6512f668e6da00d1.woff2",
+    "static/media/torus-thin.woff2": "/jaysonf/static/media/torus-thin.a5a54b9bc69dc59ac38e.woff2",
     "static/media/email-sent.gif": "/jaysonf/static/media/email-sent.0d6aac446b1899bb1986.gif",
+    "static/media/torus-italic.woff": "/jaysonf/static/media/torus-italic.44df630fdc25eac0a708.woff",
     "static/media/JF_192_Black_V2.svg": "/jaysonf/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/jaysonf/index.html",
-    "main.9d792115.css.map": "/jaysonf/static/css/main.9d792115.css.map",
-    "main.a2c742af.js.map": "/jaysonf/static/js/main.a2c742af.js.map"
+    "main.5ed6b73e.css.map": "/jaysonf/static/css/main.5ed6b73e.css.map",
+    "main.bc9f7878.js.map": "/jaysonf/static/js/main.bc9f7878.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d792115.css",
-    "static/js/main.a2c742af.js"
+    "static/css/main.5ed6b73e.css",
+    "static/js/main.bc9f7878.js"
   ]
 }
