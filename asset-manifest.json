@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/jaysonf/static/css/main.0d288d58.css",
-    "main.js": "/jaysonf/static/js/main.2b9f21c3.js",
+    "main.js": "/jaysonf/static/js/main.c7ebb993.js",
     "static/media/appy.gif": "/jaysonf/static/media/appy.47b683a40b4855038318.gif",
     "static/media/inventory.gif": "/jaysonf/static/media/inventory.e56a18887e0f44573079.gif",
+    "static/media/imageuploader.gif": "/jaysonf/static/media/imageuploader.cec530b2e81632158db7.gif",
     "static/media/guitar.png": "/jaysonf/static/media/guitar.6c6dc8b4aa4a73e24fdf.png",
     "static/media/about.png": "/jaysonf/static/media/about.6d09e0ac76a76b286af3.png",
     "static/media/simplepdf.gif": "/jaysonf/static/media/simplepdf.35661db0eebaa8a0b89b.gif",
@@ -32,13 +33,13 @@
     "static/media/email-sent.gif": "/jaysonf/static/media/email-sent.0d6aac446b1899bb1986.gif",
     "static/media/udemy.png": "/jaysonf/static/media/udemy.0188e9096e41cab8a9be.png",
     "static/media/torus-italic.woff": "/jaysonf/static/media/torus-italic.44df630fdc25eac0a708.woff",
-    "static/media/JF_192_Black_V2.svg": "/jaysonf/static/media/JF_192_Black_V2.ffc003084bbc2a968fbe75018c7f117c.svg",
+    "static/media/JF_192_Black_V2.svg": "/jaysonf/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/jaysonf/index.html",
     "main.0d288d58.css.map": "/jaysonf/static/css/main.0d288d58.css.map",
-    "main.2b9f21c3.js.map": "/jaysonf/static/js/main.2b9f21c3.js.map"
+    "main.c7ebb993.js.map": "/jaysonf/static/js/main.c7ebb993.js.map"
   },
   "entrypoints": [
     "static/css/main.0d288d58.css",
-    "static/js/main.2b9f21c3.js"
+    "static/js/main.c7ebb993.js"
   ]
 }
