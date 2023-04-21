@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8b51ded6.css",
-    "main.js": "/static/js/main.891d94b8.js",
+    "main.js": "/static/js/main.d4dc9c8d.js",
     "static/media/appy.gif": "/static/media/appy.47b683a40b4855038318.gif",
     "static/media/inventory.gif": "/static/media/inventory.e56a18887e0f44573079.gif",
     "static/media/keyboard.jpg": "/static/media/keyboard.6973f5c0c38d2053d2bf.jpg",
@@ -44,10 +44,10 @@
     "static/media/JF_192_Black_V2.svg": "/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/index.html",
     "main.8b51ded6.css.map": "/static/css/main.8b51ded6.css.map",
-    "main.891d94b8.js.map": "/static/js/main.891d94b8.js.map"
+    "main.d4dc9c8d.js.map": "/static/js/main.d4dc9c8d.js.map"
   },
   "entrypoints": [
     "static/css/main.8b51ded6.css",
-    "static/js/main.891d94b8.js"
+    "static/js/main.d4dc9c8d.js"
   ]
 }
