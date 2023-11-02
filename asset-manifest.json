@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c609257d.css",
-    "main.js": "/static/js/main.2da681b0.js",
+    "main.js": "/static/js/main.6617d4b6.js",
     "static/media/appy.gif": "/static/media/appy.47b683a40b4855038318.gif",
     "static/media/inventory.gif": "/static/media/inventory.e56a18887e0f44573079.gif",
     "static/media/custom_relatedlist.gif": "/static/media/custom_relatedlist.05b4779bfc38f674c494.gif",
     "static/media/keyboard.jpg": "/static/media/keyboard.6973f5c0c38d2053d2bf.jpg",
     "static/media/imageuploader.gif": "/static/media/imageuploader.cec530b2e81632158db7.gif",
     "static/media/vlocity_windcave.gif": "/static/media/vlocity_windcave.881453cda8bfdf496492.gif",
+    "static/media/tour.gif": "/static/media/tour.204e58a276eda6842115.gif",
     "static/media/guitar.png": "/static/media/guitar.6c6dc8b4aa4a73e24fdf.png",
     "static/media/custom_confirm.gif": "/static/media/custom_confirm.6c1dff0fe2a693f45cd8.gif",
     "static/media/flow_email.gif": "/static/media/flow_email.70e8a9ceb84a191c62f8.gif",
@@ -49,10 +50,10 @@
     "static/media/JF_192_Black_V2.svg": "/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/index.html",
     "main.c609257d.css.map": "/static/css/main.c609257d.css.map",
-    "main.2da681b0.js.map": "/static/js/main.2da681b0.js.map"
+    "main.6617d4b6.js.map": "/static/js/main.6617d4b6.js.map"
   },
   "entrypoints": [
     "static/css/main.c609257d.css",
-    "static/js/main.2da681b0.js"
+    "static/js/main.6617d4b6.js"
   ]
 }
