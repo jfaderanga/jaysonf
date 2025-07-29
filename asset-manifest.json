@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.f8bd98bf.css",
-    "main.js": "/static/js/main.1af4c99d.js",
+    "main.css": "/static/css/main.ce317bfa.css",
+    "main.js": "/static/js/main.a5d8490f.js",
     "static/media/render3D.gif": "/static/media/render3D.2eb2843eb21dd06039c3.gif",
     "static/media/appy.gif": "/static/media/appy.47b683a40b4855038318.gif",
     "static/media/coding.png": "/static/media/coding.0b20a93e662d44635c21.png",
     "static/media/inventory.gif": "/static/media/inventory.e56a18887e0f44573079.gif",
     "static/media/custom_relatedlist.gif": "/static/media/custom_relatedlist.05b4779bfc38f674c494.gif",
+    "static/media/jsontotable.gif": "/static/media/jsontotable.375c905a6e82987102c7.gif",
     "static/media/keyboard.jpg": "/static/media/keyboard.6973f5c0c38d2053d2bf.jpg",
     "static/media/imageuploader.gif": "/static/media/imageuploader.cec530b2e81632158db7.gif",
     "static/media/vlocity_windcave.gif": "/static/media/vlocity_windcave.881453cda8bfdf496492.gif",
@@ -50,11 +51,11 @@
     "static/media/torus-italic.woff": "/static/media/torus-italic.44df630fdc25eac0a708.woff",
     "static/media/JF_192_Black_V2.svg": "/static/media/JF_192_Black_V2.7d4cd03754d1d0cfcffe6537498ca152.svg",
     "index.html": "/index.html",
-    "main.f8bd98bf.css.map": "/static/css/main.f8bd98bf.css.map",
-    "main.1af4c99d.js.map": "/static/js/main.1af4c99d.js.map"
+    "main.ce317bfa.css.map": "/static/css/main.ce317bfa.css.map",
+    "main.a5d8490f.js.map": "/static/js/main.a5d8490f.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8bd98bf.css",
-    "static/js/main.1af4c99d.js"
+    "static/css/main.ce317bfa.css",
+    "static/js/main.a5d8490f.js"
   ]
 }
